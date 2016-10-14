@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/b-ggs/hello-braintree-node/issues"
   },
-  "homepage": "https://github.com/b-ggs/hello-braintree-node#readme"
+  "homepage": "https://github.com/b-ggs/hello-braintree-node#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
