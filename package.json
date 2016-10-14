@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/b-ggs/hello-braintree-node#readme",
   "dependencies": {
+    "braintree": "^1.42.0",
     "express": "^4.14.0"
   }
 }
